@@ -1,0 +1,26 @@
+AppData/Local/Microsoft/Windows.*webcache.*db|
+appdata/local/microsoft/windows/webcache.*webcache.*dat|
+appData/local/spartan/database.*webcache.*dat|
+appdata/local/google/chrome/user data.*F_0.*
+appdata/local/google/chrome/user data.*DATA_*
+appdata/local/google/chrome/user data.*history.*|
+appdata/local/google/chrome/user data.*cookies.*|
+AppData/Local/Google/Chrome/User Data/Default/Cache.*|
+Local Settings/Application Data/Google/Chrome/User Data/Default/Cache.*|
+Local Settings/Application Data/Google/Chrome/User Data/Default/.*history.*|
+Local Settings/Application Data/Google/Chrome/User Data/Default/.*cookies.*|
+AppData/Local/Mozilla/Firefox/Profiles.*cache.*|
+AppData/Roaming/Mozilla/Firefox/Profiles.*cookies.sqlite|
+AppData/Roaming/Mozilla/Firefox/Profiles.*downloads.sqlite|
+Local Settings/Application Data/Mozilla/Firefox/Profiles.*cache.*|
+Application Data/Mozilla/Firefox/Profiles.*places.sqlite|
+Application Data/Mozilla/Firefox/Profiles.*cookies.sqlite|
+Application Data/Mozilla/Firefox/Profiles.*downloads.sqlite|
+Local Settings/Application Data/Apple Computer/Safari.*cache.db|
+Application Data/Apple Computer/Safari.*history.plist|
+Application Data/Apple Computer/Safari/cookies.*cookies.plist|
+Application Data/Apple Computer/Safari.*downloads.plist|
+AppData/Local/Apple Computer/Safari.*.cache.db|
+AppData/Roaming/Apple Computer/Safari.*history.plist|
+AppData/Roaming/Apple Computer/Safari.*cookies.plist|
+AppData/Roaming/Apple Computer/Safari.*downloads.plist|

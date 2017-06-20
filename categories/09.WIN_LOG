@@ -1,0 +1,6 @@
+windows.*setupapi.log|
+windows/inf.*setupapi.app.log|
+windows/inf.*setupapi.dev.log|
+windows/inf.*setupapi.offline.log|
+windows/system32/config.*evt|
+windows/system32/winevt/logs.*evtx|
